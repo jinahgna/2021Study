@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="400mm"
+   height="200mm"
+   viewBox="0 0 400 200"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
+   sodipodi:docname="balloon.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.58638804"
+     inkscape:cx="472.51676"
+     inkscape:cy="320.14003"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-intersection-paths="false"
+     inkscape:window-width="1248"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path13"
+       style="fill:#800000;fill-rule:evenodd;stroke-width:0.106373"
+       d="m 55.648458,49.760447 c -1.64734,0 -3.323325,0.180582 -4.988432,0.526796 a 25.208243,20.859738 0 0 0 -20.500821,20.492748 25.208243,20.859738 0 0 0 0.198336,2.61088 c 0.239969,6.97704 4.665068,12.80822 9.917618,17.6087 0.720447,0.65844 1.454285,1.30046 2.198105,1.91889 h 6.500349 A 15.507664,22.517596 0 0 1 40.454976,72.817301 15.507664,22.517596 0 0 1 55.96251,50.299678 15.507664,22.517596 0 0 1 71.47027,72.817301 15.507664,22.517596 0 0 1 62.951172,92.918461 h 5.233514 c 0.169277,-0.14985 0.337529,-0.29845 0.509835,-0.4516 5.120188,-4.55106 10.605622,-10.73596 11.406165,-17.65685 a 25.208243,20.859738 0 0 0 0.47489,-4.03002 25.208243,20.859738 0 0 0 -18.499664,-20.10747 c -2.114541,-0.595804 -4.282967,-0.912073 -6.427454,-0.912074 z" />
+    <path
+       id="rect37"
+       style="fill:#800000;fill-rule:evenodd;stroke-width:0.281265"
+       d="M 186.04492 391.30469 L 186.04492 429.66406 L 236.30664 429.66406 L 236.30664 391.30469 L 186.04492 391.30469 z M 202.36133 398.19727 L 202.36133 398.19922 C 202.68473 398.18977 203.33919 398.22197 203.625 398.25977 C 206.12944 398.59834 208.28026 400.01437 209.84961 402.35938 C 210.11785 402.76295 210.55221 403.53772 210.75781 403.98828 C 210.84557 404.17915 210.92339 404.34778 210.93359 404.35156 C 210.94361 404.3629 211.02361 404.21065 211.11133 404.01562 C 211.41718 403.34302 211.96782 402.40767 212.39648 401.83594 C 214.05107 399.62544 216.42382 398.30536 218.9082 398.20898 C 220.2068 398.15739 221.31774 398.36799 222.44336 398.87891 C 223.10268 399.17711 223.62506 399.51357 224.16406 399.98242 C 224.8284 400.56084 225.25766 401.08832 225.67383 401.82812 C 226.12508 402.63298 226.40289 403.51309 226.5332 404.54883 C 226.5809 404.92999 226.5741 406.04534 226.52148 406.4668 C 226.26828 408.49572 225.46021 410.48348 224.03125 412.61328 C 221.78252 415.96493 218.10801 419.37444 213.1543 422.69922 C 212.02868 423.45471 210.96877 424.12645 210.92383 424.11133 C 210.88372 424.09784 210.14326 423.63178 209.55664 423.24805 C 202.63497 418.73733 198.06914 414.07526 196.20898 409.60938 C 194.80009 406.22636 195.05166 403.05109 196.9043 400.80469 C 198.21041 399.22193 200.23545 398.25547 202.36133 398.19727 z "
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.07395;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 41.814187,90.782581 8.627288,14.505279"
+       id="path900" />
+    <path
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:1.15967;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 68.9088,89.932811 61.128926,105.66177"
+       id="path902" />
+    <path
+       id="path907"
+       style="fill:#800000;fill-opacity:1;stroke:none;stroke-width:0.996754;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.808511"
+       d="m 55.639437,50.001838 a 6.9675006,22.242541 0 0 0 -6.963214,22.242483 6.9675006,22.242541 0 0 0 4.421901,20.70493 h 5.091186 a 6.9675006,22.242541 0 0 0 4.421894,-20.70493 6.9675006,22.242541 0 0 0 -6.967374,-22.242483 6.9675006,22.242541 0 0 0 -0.004,0 z" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#800000;stroke-width:0.665001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 65.380404,96.87548 c -6.65521,2.576356 -13.310421,2.532218 -19.965631,-0.140605"
+       id="path1063"
+       sodipodi:nodetypes="cc" />
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.5105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1065"
+       width="1.0163121"
+       height="2.021759"
+       x="53.283253"
+       y="96.445656" />
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.5105;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1065-3"
+       width="1.0163121"
+       height="2.021759"
+       x="56.94595"
+       y="96.373833" />
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.484925;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1087"
+       width="4.1706262"
+       height="0.68870783"
+       x="53.444088"
+       y="98.038101" />
+    <rect
+       style="fill:#800000;fill-opacity:1;stroke:#800000;stroke-width:0.620345;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1089"
+       width="0.54023707"
+       height="0.7384693"
+       x="55.343967"
+       y="96.516777" />
+  </g>
+</svg>
